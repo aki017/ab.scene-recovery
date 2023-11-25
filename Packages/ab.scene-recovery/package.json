@@ -1,0 +1,15 @@
+{
+  "name": "ab.scene-recovery",
+  "displayName": "Aburi \u30b7\u30fc\u30f3\u5fa9\u5143",
+  "version": "0.0.1",
+  "description": "\u30b7\u30fc\u30f3\u5fa9\u5143",
+  "gitDependencies": {},
+  "vpmDependencies": {},
+  "author": {
+    "name": "Aburizushi",
+    "email": "aki@aki017.info"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "type": "tool"
+}
